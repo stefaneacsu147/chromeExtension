@@ -1,2 +1,2 @@
-# Launcher
+# Chrome Launcher
 
